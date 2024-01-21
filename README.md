@@ -1,11 +1,15 @@
 # Bad opsec
 
+The best way to learn about opsec is to learn how people fail.
+
+---
 - Pompourin (Conor Fitzpatrick) [Affidavit](https://s3.documentcloud.org/documents/23723268/pompourin-affidavit-govuscourtsvaed53554220.pdf)
 - Harvard student [bomb threat](https://slate.com/technology/2013/12/harvard-exam-bomb-threats-how-the-alleged-hoaxer-failed-to-cover-his-online-tracks.html) and [Affidavit](https://www.washingtonpost.com/blogs/the-switch/files/2013/12/kimeldoharvard.pdf)
 - leaker of classified U.S. docs (Jack Teixeira) [Affidavit](https://www.documentcloud.org/documents/23777131-jack-teixeira-affidavit), [Some external investigations](https://archive.is/dI9wU), [thread 1](https://nitter.net/AricToler/status/1646888783609049088#m) and [thread 2](https://nitter.net/trbrtc/status/1646544312170053633#m)
 - Ross Ulbricht (Silk Road admin) [Couldn't keep](https://krebsonsecurity.com/2013/11/no-bail-for-alleged-silk-road-mastermind/) himself [anonymous online](https://arstechnica.com/information-technology/2013/10/silk-road-mastermind-unmasked-by-rookie-goofs-complaint-alleges/) and [how undercover agent helped the FBI to get him traped](https://archive.is/BDsLI) the [Affidavit](https://www.documentcloud.org/documents/801070-silk-road-files)
 - Lapsus$ [kiddies](https://blog.sekoia.io/lapsus-when-kiddies-play-in-the-big-league/). Video [documentary](https://youtu.be/v_z2HkVfcEA)
 - BayRob Malware gang with [good opsec caught](https://www.zdnet.com/article/the-bayrob-malware-gangs-rise-and-fall/).  Conference [video](https://youtube.com/watch?v=zXmZnU2GdVk&t=0)
+- Man [donated](https://www.justice.gov/usao-nj/press-release/file/1164941/download) to Hamas
 - APT1 and learning from their [OPSEC failures](https://www.osintme.com/index.php/2020/01/15/apt1-and-learning-from-their-opsec-failures/). Conference [video](https://youtu.be/StSLxFbVz0M)
 - The 'one tiny slip' that put [LulzSec chief Sabu in the FBI's pocket](https://www.theregister.com/2012/03/07/lulzsec_takedown_analysis/)
 - All ["breadcrumbs"](https://krebsonsecurity.com/category/breadcrumbs/) investigations by KrebsOnSecurity
