@@ -12,9 +12,12 @@ The best way to learn about opsec is to learn how people fail.
 - Man [donated](https://www.justice.gov/usao-nj/press-release/file/1164941/download) to Hamas
 - APT1 and learning from their [OPSEC failures](https://www.osintme.com/index.php/2020/01/15/apt1-and-learning-from-their-opsec-failures/). Conference [video](https://youtu.be/StSLxFbVz0M)
 - The 'one tiny slip' that put [LulzSec chief Sabu in the FBI's pocket](https://www.theregister.com/2012/03/07/lulzsec_takedown_analysis/)
+- The [Opsec Fail](https://www.justice.gov/opa/press-release/file/1092091/download) of North Korean State Hacker
 - All ["breadcrumbs"](https://krebsonsecurity.com/category/breadcrumbs/) investigations by KrebsOnSecurity
 - Tor markets/activities [1](https://archive.is/SRMUU), [2](https://libreddit.kavin.rocks/r/privacy/comments/113f6wf/in_2019_the_uk_and_brazilian_governments_unmasked/), [3](https://libreddit.kavin.rocks/r/technology/comments/10egl5x/the_fbi_identified_a_tor_user/j4rwyvo/), [4](https://scribe.rip/is-kax17-performing-de-anonymization-attacks-against-tor-users-42e566defce8)
 - [Joshua Schulte CIA leaker](https://archive.is/3THy7)
+- Multiple [opsec fails](https://taskandpurpose.com/news/russian-military-opsec-failure-ukraine/) by [russian soldiers](https://www.rferl.org/a/trench-selfies-tracking-russia-military-frontline-social-media-/32462632.html). Entertaining [video](https://youtu.be/iH4_8WBPIrg)
+- 4chan [Syria airstrike](https://dumayu.com/4chan-calls-airstrike-syria/)
 - Ochko123 - How the Feds [Caught Russian Mega-Carder Roman Seleznev](https://youtu.be/6Chp12sEnWk)
 - Series of Monumental [OpSec Mistakes Led to AlphaBay's Demise](https://www.bleepingcomputer.com/news/security/series-of-monumental-opsec-mistakes-led-to-alphabays-demise/)
 - Researchers Uncovered Uzbekistan Hacking Operations Due to Spectacularly [Bad OPSEC](https://www.vice.com/en_us/article/3kx5y3/uzbekistan-hacking-operations-uncovered-due-to-spectacularly-bad-opsec)
