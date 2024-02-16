@@ -3,7 +3,8 @@
 The best way to learn about opsec is to learn how people fail.
 
 ---
-- Pompourin (Conor Fitzpatrick) [Affidavit](https://s3.documentcloud.org/documents/23723268/pompourin-affidavit-govuscourtsvaed53554220.pdf)
+- Finnish hacker traced using Monero bad opsec [Reddit investigation](https://libreddit.bus-hit.me/r/Monero/comments/19emsfe/finlands_national_bureau_of_investigation_claims). Entertaining [video](https://www.youtube.com/watch?v=7CD_Nl3iwhE)
+- Pompompurin (Conor Fitzpatrick) BreachForums owner [Affidavit](https://s3.documentcloud.org/documents/23723268/pompourin-affidavit-govuscourtsvaed53554220.pdf)
 - Harvard student [bomb threat](https://slate.com/technology/2013/12/harvard-exam-bomb-threats-how-the-alleged-hoaxer-failed-to-cover-his-online-tracks.html) and [Affidavit](https://www.washingtonpost.com/blogs/the-switch/files/2013/12/kimeldoharvard.pdf)
 - leaker of classified U.S. docs (Jack Teixeira) [Affidavit](https://www.documentcloud.org/documents/23777131-jack-teixeira-affidavit), [Some external investigations](https://archive.is/dI9wU), [thread 1](https://nitter.net/AricToler/status/1646888783609049088#m) and [thread 2](https://nitter.net/trbrtc/status/1646544312170053633#m)
 - Ross Ulbricht (Silk Road admin) [Couldn't keep](https://krebsonsecurity.com/2013/11/no-bail-for-alleged-silk-road-mastermind/) himself [anonymous online](https://arstechnica.com/information-technology/2013/10/silk-road-mastermind-unmasked-by-rookie-goofs-complaint-alleges/) and [how undercover agent helped the FBI to get him traped](https://archive.is/BDsLI) the [Affidavit](https://www.documentcloud.org/documents/801070-silk-road-files)
