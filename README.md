@@ -16,6 +16,7 @@ The best way to learn about opsec is to learn how people fail.
 - Hacker [Jeremy Hammond](https://www.justice.gov/archive/usao/nys/pressreleases/March12/hackers/hammondjeremycomplaint.pdf). Entertaining [video](https://www.youtube.com/watch?v=qLgCzFN_LDo&t=722)
 - John William Kirby Kelley [Member of 'DeadNet' & .onion 'Doxbin'](https://krebsonsecurity.com/2020/01/alleged-member-of-neo-nazi-swatting-group-charged/). [Affidavit](https://www.courtlistener.com/recap/gov.uscourts.vaed.464952/gov.uscourts.vaed.464952.2.0.pdf)
 - How the FBI goes after [DDoS cyberattackers](https://techcrunch.com/2023/08/12/fbi-ddos-for-hire-cyberattackers). Conference [video](https://youtu.be/9YK7Ugx1MOs?t=1857)
+- On the Digital [Trail](https://dl.acm.org/doi/pdf/10.1145/2366316.2366323) 
 - ChipMixer The Darknet [Cryptocurrency Mixer](https://www.justice.gov/opa/press-release/file/1574581/download)
 - The [Opsec Fail](https://www.justice.gov/opa/press-release/file/1092091/download) of North Korean State Hacker
 - All ["breadcrumbs"](https://krebsonsecurity.com/category/breadcrumbs/) investigations by KrebsOnSecurity
