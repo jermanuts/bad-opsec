@@ -12,6 +12,7 @@ The best way to learn about opsec is to learn how people fail.
 - BayRob Malware gang with [good opsec caught](https://www.zdnet.com/article/the-bayrob-malware-gangs-rise-and-fall/).  Conference [video](https://youtube.com/watch?v=zXmZnU2GdVk&t=0)
 - Man [donated](https://www.justice.gov/usao-nj/press-release/file/1164941/download) to Hamas
 - APT1 and learning from their [OPSEC failures](https://www.osintme.com/index.php/2020/01/15/apt1-and-learning-from-their-opsec-failures/). Conference [video](https://youtu.be/StSLxFbVz0M)
+- Crypto "Mixer" Bitcoin Fog [Affidavit](https://storage.courtlistener.com/recap/gov.uscourts.dcd.230456/gov.uscourts.dcd.230456.1.1_1.pdf)
 - The 'one tiny slip' that put [LulzSec chief Sabu in the FBI's pocket](https://www.theregister.com/2012/03/07/lulzsec_takedown_analysis/)
 - Hacker [Jeremy Hammond](https://www.justice.gov/archive/usao/nys/pressreleases/March12/hackers/hammondjeremycomplaint.pdf). Entertaining [video](https://www.youtube.com/watch?v=qLgCzFN_LDo&t=722)
 - John William Kirby Kelley [Member of 'DeadNet' & .onion 'Doxbin'](https://krebsonsecurity.com/2020/01/alleged-member-of-neo-nazi-swatting-group-charged/). [Affidavit](https://www.courtlistener.com/recap/gov.uscourts.vaed.464952/gov.uscourts.vaed.464952.2.0.pdf)
