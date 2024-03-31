@@ -21,6 +21,7 @@ The best way to learn about opsec is to learn how people fail.
 - ChipMixer The Darknet [Cryptocurrency Mixer](https://www.justice.gov/opa/press-release/file/1574581/download)
 - The [Opsec Fail](https://www.justice.gov/opa/press-release/file/1092091/download) of North Korean State Hacker
 - All ["breadcrumbs"](https://krebsonsecurity.com/category/breadcrumbs/) investigations by KrebsOnSecurity
+- [Freedom Hosting](https://www.technologyreview.com/2020/02/08/349016/a-dark-web-tycoon-pleads-guilty-but-how-was-he-caught/) (the [malicious JavasScript](https://web.archive.org/web/20130806020101/http://pastebin.mozilla.org/2777139), [payload analysis](https://tsyrklevich.net/tbb_payload.txt)) and [TorMail](https://www.vice.com/en/article/wnxbqw/unsealed-court-docs-show-fbi-used-malware-like-a-grenade)
 - Tor markets/activities [1](https://archive.is/SRMUU), [2](https://libreddit.kavin.rocks/r/privacy/comments/113f6wf/in_2019_the_uk_and_brazilian_governments_unmasked/), [3](https://libreddit.kavin.rocks/r/technology/comments/10egl5x/the_fbi_identified_a_tor_user/j4rwyvo/), [4](https://scribe.rip/is-kax17-performing-de-anonymization-attacks-against-tor-users-42e566defce8)
 - Joshua Schulte [CIA leaker](https://archive.is/3THy7)
 - [Multiple](https://info.enea.com/tracking_on_the_battlefield_report) opsec [fails](https://taskandpurpose.com/news/russian-military-opsec-failure-ukraine/) by [russian soldiers](https://www.rferl.org/a/trench-selfies-tracking-russia-military-frontline-social-media-/32462632.html). Entertaining [video](https://youtu.be/iH4_8WBPIrg)
