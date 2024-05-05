@@ -3,7 +3,7 @@
 The best way to learn about opsec is to learn how people fail.
 
 ---
-- A site and archives opsec failures of various threat actors, governments.. [OPSECFAILURES ARCHIVES](https://opsecfail.github.io)
+- A site and archives opsec failures of various threat actors, governments.. [OPSEC FAILURES ARCHIVES](https://opsecfail.github.io)
 - Finnish hacker traced using Monero bad opsec [Reddit investigation](https://libreddit.bus-hit.me/r/Monero/comments/19emsfe/finlands_national_bureau_of_investigation_claims). Entertaining [video](https://www.youtube.com/watch?v=7CD_Nl3iwhE)
 - Pompompurin (Conor Fitzpatrick) BreachForums owner [Affidavit](https://s3.documentcloud.org/documents/23723268/pompourin-affidavit-govuscourtsvaed53554220.pdf)
 - Harvard student [bomb threat](https://slate.com/technology/2013/12/harvard-exam-bomb-threats-how-the-alleged-hoaxer-failed-to-cover-his-online-tracks.html) and [Affidavit](https://www.washingtonpost.com/blogs/the-switch/files/2013/12/kimeldoharvard.pdf)
